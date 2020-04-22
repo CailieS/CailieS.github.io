@@ -1,11 +1,11 @@
 # Site settings
-author: Cailie Skelton
-title: 
+author: Cailie
+title: Keeping Up With Code
 header-img: img/home-bg.png
 email: cskelton707@gmail.com
-copyright_name: Cailie Skelton
+copyright_name: Cailie
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A jaunt Into writing code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  CailieS
